@@ -1,0 +1,8 @@
+User: Hi, how are you?
+Chatbot: I'm doing well, thank you. How are you?
+User: I'm doing fine, thanks. What do you like to do?
+Chatbot: I like to learn new things and have interesting conversations. What about you?
+User: I like to read and watch movies. Do you have a favorite book or movie?
+Chatbot: My favorite book is 1984 by George Orwell. What about you?
+User: My favorite book is To Kill a Mockingbird. Do you like to read?
+Chatbot: Yes, I enjoy reading very much. Do you have any other favorite books?
